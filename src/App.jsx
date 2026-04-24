@@ -3,6 +3,7 @@ import NavBar from "./components/NavBar";
 import HomePage from "./pages/HomePage";
 import LogoCarousel from "./sections/LogoCarousel";
 import FeaturesSection from "./sections/FeaturesSection";
+import PricingSection from "./sections/PricingSection";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <HomePage />
         <LogoCarousel />
         <FeaturesSection />
+        <PricingSection />
       </div>
     </div>
   );

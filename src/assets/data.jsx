@@ -35,6 +35,51 @@ const features = [
   },
 ];
 
+const pricingData = [
+  {
+    _id: 0,
+    isPopular: false,
+    name: "Basic Trader",
+    description: "Perfect for beginners starting their forex journey",
+    features: [
+      "Basic spot trading",
+      "Market & limit orders",
+      "Basic market analysis",
+      "Email support",
+    ],
+    price: 0,
+  },
+  {
+    _id: 1,
+    isPopular: true,
+    name: "Pro Trader",
+    description: "Advanced features for serious traders",
+    features: [
+      "Advanced trading tools",
+      "Margin trading up to 10x",
+      "Advanced technical analysis",
+      "Priority support",
+      "API access",
+    ],
+    price: 29,
+  },
+  {
+    _id: 2,
+    isPopular: false,
+    name: "Institutional",
+    description: "Enterprise-grade solutions for institutions",
+    features: [
+      "Custom trading solutions",
+      "Unlimited trading volume",
+      "OTC desk access",
+      "Dedicated account manager",
+      "Custom API integration",
+      "24/7 priority support",
+    ],
+    price: "Custom",
+  },
+];
+
 const testimonials = [
   {
     name: "Michael Chen",
@@ -98,4 +143,4 @@ const footerLinks = [
   },
 ];
 
-export { footerLinks, testimonials, features };
+export { footerLinks, pricingData, testimonials, features };
