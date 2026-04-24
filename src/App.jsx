@@ -2,6 +2,7 @@ import React from "react";
 import NavBar from "./components/NavBar";
 import HomePage from "./pages/HomePage";
 import LogoCarousel from "./sections/LogoCarousel";
+import FeaturesSection from "./sections/FeaturesSection";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <div className="">
         <HomePage />
         <LogoCarousel />
+        <FeaturesSection />
       </div>
     </div>
   );
