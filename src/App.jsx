@@ -4,6 +4,7 @@ import HomePage from "./pages/HomePage";
 import LogoCarousel from "./sections/LogoCarousel";
 import FeaturesSection from "./sections/FeaturesSection";
 import PricingSection from "./sections/PricingSection";
+import TestimonialSection from "./sections/TestimonialSection";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         <LogoCarousel />
         <FeaturesSection />
         <PricingSection />
+        <TestimonialSection />
       </div>
     </div>
   );
