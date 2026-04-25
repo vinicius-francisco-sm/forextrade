@@ -1,10 +1,22 @@
 import React from "react";
 import HeroSection from "../sections/HeroSection";
+import LogoCarousel from "../sections/LogoCarousel";
+import FeaturesSection from "../sections/FeaturesSection";
+import PricingSection from "../sections/PricingSection";
+import TestimonialSection from "../sections/TestimonialSection";
+import CtaSection from "../sections/CtaSection";
+import Footer from "../components/Footer";
 
 const HomePage = () => {
   return (
     <div className="bg-black mx-auto">
       <HeroSection />
+      <LogoCarousel />
+      <FeaturesSection />
+      <PricingSection />
+      <TestimonialSection />
+      <CtaSection />
+      <Footer />
     </div>
   );
 };
