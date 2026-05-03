@@ -8,7 +8,7 @@ const CtaSection = () => {
       <div
         className="absolute inset-0 opacity-40"
         style={{
-          backgroundImage: 'url("/crack.png")',
+          backgroundImage: 'url("./crack.png")',
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
         }}
