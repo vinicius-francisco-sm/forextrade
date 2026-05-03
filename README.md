@@ -1,12 +1,36 @@
-# React + Vite
+# 🎨 Frontend Portfolio React Landing Page - ForexTrade 📊
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📝 Implementation in React, Tailwind, Framer Motion and GSAP, using Vite of a Landing Page for a fictional bar named Velvet Pour
 
-Currently, two official plugins are available:
+This is an implementation of the Forex Trade Landing Page design made by [Footprint Arts](https://www.youtube.com/@footprint_arts). This implementation was made by me for portfolio reasons. I don't own nor clame any rights over the design idea.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙ Stack
 
-## Expanding the ESLint configuration
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,framer,gsap,vite&theme=dark)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![hero showcase image](hero-showcase.png)
+![features showcase image](features-showcase.png)
+
+## 🧪 Test it out
+
+Use the following link to github pages: [ForexTrade](https://vinicius-francisco-sm.github.io/forextrade/)
+
+## 👨‍💻 Run the project at your own environment
+
+To run the project at your own environment
+
+1. Install [Node and npm](https://nodejs.org/en/download)
+2. Clone or download the files from this repository
+3. Run `npm install` on the terminal
+4. Then run `npm run dev`
+5. Open the project through the generated link
+
+## 📢 Any suggestions?
+
+If you have any ideas or bugs o report, feel free to submit an issue on the issues tab up above!
+
+## ✅❎ Work in progress
+
+- [ ] Implement other pages
+- [ ] Implement 3D hero image effect
+- [ ] Implement theme toggle
