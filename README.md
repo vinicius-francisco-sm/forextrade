@@ -31,6 +31,7 @@ If you have any ideas or bugs o report, feel free to submit an issue on the issu
 
 ## ✅❎ Work in progress
 
+- [ ] Fix section jumping
 - [ ] Implement other pages
 - [ ] Implement 3D hero image effect
 - [ ] Implement theme toggle
