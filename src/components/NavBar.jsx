@@ -44,7 +44,7 @@ const NavBar = () => {
           </div>
 
           <div className="md:hidden glass p-1 rounded-md">
-            <img src="/menu.svg" alt="menu-icon" className="w-8" />
+            <img src="./menu.svg" alt="menu-icon" className="w-8" />
           </div>
         </nav>
       </div>

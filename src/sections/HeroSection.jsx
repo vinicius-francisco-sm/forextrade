@@ -38,7 +38,7 @@ const HeroSection = () => {
 
       <div className="relative mx-auto max-w-5xl mt-20">
         <div className="glass rounded-xl overflow-hidden">
-          <img src="/chart2.png" alt="hero_image" className="w-full h-auto" />
+          <img src="./chart2.png" alt="hero_image" className="w-full h-auto" />
         </div>
       </div>
     </section>
